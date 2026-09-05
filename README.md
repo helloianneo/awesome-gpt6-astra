@@ -13,6 +13,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 - [精选 16](#精选-16)
 - [分类目录](#分类目录)
 - [收录说明](#收录说明)
+- [关于作者](#关于作者)
 
 ## 精选 16
 
@@ -208,3 +209,12 @@ Computer Use 在 Canva 里实操组装画像。
 - 时长、配额、成本均为作者自述。
 - 摘要文字 [CC0 1.0](LICENSE)；原作品版权见 [NOTICE.md](NOTICE.md)。
 - 投稿见 [CONTRIBUTING.md](CONTRIBUTING.md)。Not affiliated with OpenAI。
+
+## 关于作者
+
+**Ian（伊恩）**，产品设计师。分享设计、审美和产品商业化。
+
+- [Indie Builders](https://ianneo.xyz/ib)
+- [伊恩日刊](https://iandaily.xyz)
+- [Ian's Inspiration](https://topinspo.design)
+- [X](https://x.com/ianneo_ai)
