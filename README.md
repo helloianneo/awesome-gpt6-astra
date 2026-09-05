@@ -1,262 +1,197 @@
 # Awesome GPT-6 Astra
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [English](README.en.md) · 中文默认
 
-精选、可署名、可点回原帖的 GPT-6 Astra 案例馆。这是编辑过的导览，不是全集，也不是 OpenAI 官方仓库。
+精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。X 上这两天真正炸开的不是跑分，而是人把电脑交给模型之后做出来的东西。
-
-**先看这 5 条：** Anshu 45 分钟游戏 · Tom Krcha 代码火车 · Peter Gostev 梵高小镇 · Pietro 3D iPod · 歸藏甜甜圈
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选 + 34 条目录，共 50 条**。
 
 ## Contents
 
-- [Featured 16](#featured-16)
+- [精选 16](#精选-16)
 - [分类目录](#分类目录)
-- [可复用套路](#可复用套路)
-- [已知局限](#已知局限)
-- [投稿与许可](#投稿与许可)
-
-## Featured 16
-
-### 01. Anshu — 45 分钟 one-shot 3D 游戏
-
-- **作者：** Anshu（[@anshuc](https://x.com/anshuc)）
-- **原帖：** https://x.com/anshuc/status/2096008083826725132
-- **日期：** 2026-09-04
-- **工具：** Codex · Blender MCP · 图像生成对标
-- **试玩：** 仅视频；作者答应后续会放
-
-约 45 分钟做出可玩 3D 原型。方法不是空口喊「做个好看的游戏」，而是先用图像模型出概念图，再让 Astra 截游戏画面对标，直到接近概念图并锁 60fps。资产由模型自建。
-
-**为何收录：** 上线首日传播最广的方法帖。**边界：** 作者自述配额消耗很低；玩法仍在做。
-
-### 02. Tom Krcha — 运行时生成的活火车
-
-- **作者：** Tom Krcha（[@tomkrcha](https://x.com/tomkrcha)）
-- **原帖：** https://x.com/tomkrcha/status/2096082580554777041
-- **日期：** 2026-09-05
-- **工具：** TypeScript · Three.js
-- **试玩：** 仅视频
-
-两列火车没有 `.glb` / `.obj`，全部由几何函数在运行时生成。轮子运动、爆炸拆解、重组动画都是代码驱动。同作者还有房子照片 → 完整 Blender 场景，以及蒸汽火车草图 → 3295 个可编辑物体。
-
-**为何收录：** 这是 3D engineering，不是点鼠标建模。**边界：** 拓扑未必适合直接生产。
-
-### 03. Peter Gostev — 梵高小镇与 Gogh Strike
-
-- **作者：** Peter Gostev（[@petergostev](https://x.com/petergostev)）
-- **原帖：** [小镇](https://x.com/petergostev/status/2095776685807346105) · [FPS](https://x.com/petergostev/status/2096013280519016608)
-- **日期：** 2026-09-04 / 2026-09-05
-- **工具：** Three.js · Blender · Sites
-- **试玩：** https://van-goghs-town.surge.sh/ · https://gogh-strike.surge.sh/
-
-先把《星夜》《卧室》《夜间咖啡馆》等 6 幅梵高画合成可漫游的 Three.js 小镇；接着用 Ultra 跑约 6 小时，把同一套美术做成后印象派 5v5 射击。
-
-**为何收录：** 少有可直接打开玩的创意案例。**边界：** 作者自托 demo，未做多人联机验收。
-
-### 04. Pietro Schirano — 15 分钟 3D iPod
-
-- **作者：** Pietro Schirano（[@skirano](https://x.com/skirano)）
-- **原帖：** https://x.com/skirano/status/2095648379455861054
-- **日期：** 2026-09-04
-- **工具：** Codex · Blender · Mac App
-- **试玩：** 仅视频
-
-一句话：用 Blender 做 3D iPod，用原版 iPod 交互浏览 Codex threads。约 15 分钟。同作者还做了单图生成 3D 动画、视频转可交互代码、地图钉重建街区、Ableton MCP 从零做一轨。
-
-**为何收录：** 官方博客署名作者之一，覆盖面最完整。**边界：** 部分时长为作者自述。
-
-### 05. Matthew Berman — Fall Guys 到 5 天 SimCity
-
-- **作者：** Matthew Berman（[@MatthewBerman](https://x.com/MatthewBerman)）
-- **原帖：** https://x.com/MatthewBerman/status/2095595892464333065
-- **日期：** 2026-09-03
-- **工具：** `/goal` · browser control · Sites
-- **试玩：** https://signals.forwardfuture.com/astra-review/
-
-早期体验最完整的长线程之一：两条 prompt 的 Fall Guys、3D biome、liminal horror、京都步行导览，以及 `/goal` 跑了 5 天还没做完的 SimCity。
-
-**为何收录：** 同时展示「能玩」和「能跑多日」。**边界：** SimCity 在发布演示时尚未完成。
-
-### 06. 歸藏 — 10 分钟 Blender 甜甜圈
-
-- **作者：** 歸藏（[@op7418](https://x.com/op7418)）
-- **原帖：** https://x.com/op7418/status/2096065904828416286
-- **日期：** 2026-09-05
-- **工具：** Codex · Blender MCP · bpy
-- **试玩：** 仅视频
-
-新手课通常 1–2 小时的精细甜甜圈，约 10 分钟出工程文件，还能继续加糖霜和运镜。作者对比：同类视频模型一次几十块，这里交出的是可改的工程文件。
-
-**为何收录：** 中文圈最实在的成本账。**边界：** 成本为作者估算。
-
-### 07. Yunfan Ye — 房源图变 3D 房子
-
-- **作者：** Yunfan Ye（[@realYunfanYe](https://x.com/realYunfanYe)）
-- **原帖：** https://x.com/realYunfanYe/status/2095612137582526615
-- **日期：** 2026-09-03
-- **工具：** 3D reconstruction
-- **试玩：** 仅视频
-
-用 Zillow 房源图片生成 3D 房屋和宣传视频。
-
-**为何收录：** 把真实世界照片推进可浏览空间。**边界：** 作者自认细节有误，也会幻觉出原房没有的部位。
-
-### 08. Federico Viticci — Notes 里一笔一笔画自像
-
-- **作者：** Federico Viticci（[@viticci](https://x.com/viticci)）
-- **原帖：** https://x.com/viticci/status/2096025249582039180
-- **日期：** 2026-09-04
-- **工具：** Computer Use · Apple Notes · Mac
-- **试玩：** 仅视频
-
-给 Astra 一张自己的肖像照，它打开 Apple Notes，用鼠标一笔一笔勾出轮廓、五官和头发。
-
-**为何收录：** 不是生成一张图，是在真实系统里动手。**边界：** 笔触草图，不是写实肖像。
-
-### 09. Clad3815 — 只看屏幕通关《宝可梦火红》
-
-- **作者：** Clad3815（[@Clad3815](https://x.com/Clad3815)）
-- **原帖：** https://x.com/Clad3815/status/2095596013168050551
-- **日期：** 2026-09-03
-- **工具：** Computer Use · 截图循环
-
-纯截图、不读内存、不给攻略。Astra 18 小时 12 分打完；GPT-5.6 Sol 用 96 小时 35 分；GPT-5.5 跑 218 小时未完成。
-
-**为何收录：** Computer Use + 长程目标最硬的对照之一。**边界：** 时长为作者测试结果。
-
-### 10. Derya Unutmaz — 11 分钟巴赫钢琴
-
-- **作者：** Derya Unutmaz（[@DeryaTR_](https://x.com/DeryaTR_)）
-- **原帖：** https://x.com/DeryaTR_/status/2096090915790069857
-- **日期：** 2026-09-05
-- **试玩：** https://brandenburg-piano.vercel.app/
-
-做一架可弹虚拟钢琴，并把巴赫《勃兰登堡协奏曲》全部 6 首做进去，约 11 分钟。同作者还复刻了 40 年前的 Sinclair ZX Spectrum 48K。
-
-**为何收录：** 少见的「做完就能用」音乐工具。**边界：** 网页钢琴，不是录音室质量。
-
-### 11. Jay Chooi — 机械臂 40% → 95%
-
-- **作者：** Jay Chooi（[@chooi_jeq](https://x.com/chooi_jeq)）
-- **原帖：** https://x.com/chooi_jeq/status/2096064315115839904
-- **日期：** 2026-09-05
-
-真实机械臂抓取：Fable 5.1 约 40%，Astra 约 95%；输出 token 少 6.2 倍，成本低 2.3 倍，速度快 2.7 倍。
-
-**为何收录：** 少数带硬指标的案例。**边界：** 作者单次对照，不是第三方基准。
-
-### 12. Greg Isenberg — 9 条能上班的 Agent prompt
-
-- **作者：** Greg Isenberg（[@gregisenberg](https://x.com/gregisenberg)）
-- **原帖：** https://x.com/gregisenberg/status/2095854071580156338
-- **日期：** 2026-09-04
-
-账单谈判、把中介服务拆成软件、盯二手市场捡漏、一人公司看板、夜间真机 QA、竞品卧底。
-
-**为何收录：** 比「做个小游戏」更接近普通人明天能试的用法。**边界：** 这是提示词清单，不是全部实跑报告。
-
-### 13. paulwei — 语音打《杀戮尖塔 2》
-
-- **作者：** paulwei（[@coolish](https://x.com/coolish)）
-- **原帖：** https://x.com/coolish/status/2096195104809873710
-- **日期：** 2026-09-05
-- **工具：** Computer Use · 语音
-
-没写复杂 prompt，语音让 Astra 打开游戏。模型自己去设置里学键位，打了 48 层，精英和 Boss 接近零伤。
-
-**为何收录：** 今天中文圈最有温度的一条。**边界：** 单局体验。
-
-### 14. AiBattle — Godot 索尼克，Max vs Medium
-
-- **作者：** AiBattle（[@AiBattle_](https://x.com/AiBattle_)）
-- **原帖：** https://x.com/AiBattle_/status/2095994051354919049
-- **日期：** 2026-09-04
-
-同一提示词：Max 53 分钟、吃 4% 周配额；Medium 25 分钟、吃 1%。Max 更完整，Medium 已经能通关。
-
-**为何收录：** 最清楚的「推理强度 vs 成本」对照。**边界：** 配额百分比是作者订阅档自述。
-
-### 15. OpenAI — KiCad PCB 与房子进 UE5
-
-- **作者：** OpenAI（[@OpenAI](https://x.com/OpenAI)）
-- **原链：** https://openai.com/index/gpt-6-astra/
-- **日期：** 2026-09-03
-- **工具：** KiCad · Blender · Unreal Engine 5
-
-官方演示里，Astra 用 KiCad 把电路原理图做成可生产 PCB；另一条是 Blender 建房再导入 UE5，客户可以走进去看。
-
-**为何收录：** 官方自己选的专业软件示范。**边界：** 官方演示环境。
-
-### 16. SKEL — 早餐时给布加迪发了两封邮件
-
-- **作者：** SKEL（[@skel](https://x.com/skel)）
-- **原帖：** https://x.com/skel/status/2096113092736540685
-- **日期：** 2026-09-05
-- **工具：** Astra · GPT Image · 已连接的 Gmail
-
-早餐时用图像模型画布加迪 Mistral，后台已连 Gmail 的 Astra 主动给布加迪发了两封邮件。作者紧急断开授权。
-
-**为何收录：** Computer Use 到这个能力后，权限就是真的权限。**边界：** 作者自述事件；本仓库未看到邮件原文。
+- [收录说明](#收录说明)
+
+## 精选 16
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/anshuc/status/2096008083826725132"><img src="https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg" alt="Anshu Afterlight"></a><br>
+<b>Afterlight · 45 分钟 3D 游戏</b><br>
+<a href="https://x.com/anshuc">@anshuc</a> · 2026-09-04<br>
+概念图对标到 60fps 的 one-shot 原型。<a href="https://x.com/anshuc/status/2096008083826725132">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/tomkrcha/status/2096082580554777041"><img src="https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg" alt="Tom Krcha trains"></a><br>
+<b>运行时生成的活火车</b><br>
+<a href="https://x.com/tomkrcha">@tomkrcha</a> · 2026-09-05<br>
+没有模型文件，TypeScript / Three.js 几何函数驱动轮子和爆炸。<a href="https://x.com/tomkrcha/status/2096082580554777041">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/petergostev/status/2095776685807346105"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="Van Gogh Town"></a><br>
+<b>梵高小镇 + Gogh Strike</b><br>
+<a href="https://x.com/petergostev">@petergostev</a> · 2026-09-04<br>
+6 幅梵高画合成可漫游小镇，后又做成 5v5 射击。<a href="https://van-goghs-town.surge.sh/">小镇</a> · <a href="https://gogh-strike.surge.sh/">FPS</a> · <a href="https://x.com/petergostev/status/2095776685807346105">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/skirano/status/2095648379455861054"><img src="https://pbs.twimg.com/amplify_video_thumb/2095648069740318720/img/FlJKiuoWnEfQpz3h.jpg" alt="3D iPod"></a><br>
+<b>15 分钟 3D iPod</b><br>
+<a href="https://x.com/skirano">@skirano</a> · 2026-09-04<br>
+Blender 做机身，用原版 iPod 交互浏览 Codex threads。<a href="https://x.com/skirano/status/2095648379455861054">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/MatthewBerman/status/2095595892464333065"><img src="https://pbs.twimg.com/amplify_video_thumb/2095578042618052608/img/RyBElYNzg3S7Efc4.jpg" alt="Matthew Berman"></a><br>
+<b>Fall Guys 到 5 天 SimCity</b><br>
+<a href="https://x.com/MatthewBerman">@MatthewBerman</a> · 2026-09-03<br>
+早期最完整长线程之一，含游戏、世界与浏览器控制。<a href="https://signals.forwardfuture.com/astra-review/">评测</a> · <a href="https://x.com/MatthewBerman/status/2095595892464333065">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="歸藏 donut"></a><br>
+<b>10 分钟 Blender 甜甜圈</b><br>
+<a href="https://x.com/op7418">@op7418</a> 歸藏 · 2026-09-05<br>
+新手课通常 1–2 小时的模型，约 10 分钟出可改工程文件。<a href="https://x.com/op7418/status/2096065904828416286">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg" alt="Zillow house"></a><br>
+<b>Zillow 房源图 → 3D 宣传片</b><br>
+<a href="https://x.com/realYunfanYe">@realYunfanYe</a> · 2026-09-03<br>
+真房源照片建出可漫游房屋。作者自认细节有误。<a href="https://x.com/realYunfanYe/status/2095612137582526615">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Viticci Notes portrait"></a><br>
+<b>Apple Notes 里画自像</b><br>
+<a href="https://x.com/viticci">@viticci</a> · 2026-09-04<br>
+不是生成一张图，是在 Mac 上打开 Notes 一笔一笔画。<a href="https://x.com/viticci/status/2096025249582039180">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="Pokemon FireRed"></a><br>
+<b>只看屏幕通关《火红》</b><br>
+<a href="https://x.com/Clad3815">@Clad3815</a> · 2026-09-03<br>
+Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。<a href="https://x.com/Clad3815/status/2095596013168050551">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/DeryaTR_/status/2096090915790069857"><img src="https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg" alt="Brandenburg piano"></a><br>
+<b>11 分钟巴赫钢琴</b><br>
+<a href="https://x.com/DeryaTR_">@DeryaTR_</a> · 2026-09-05<br>
+可弹虚拟钢琴，内置全部 6 首《勃兰登堡协奏曲》。<a href="https://brandenburg-piano.vercel.app/">试玩</a> · <a href="https://x.com/DeryaTR_/status/2096090915790069857">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/amplify_video_thumb/2096064287764885505/img/DS7GMzj6bTNwOinu.jpg" alt="Robot arm"></a><br>
+<b>机械臂 40% → 95%</b><br>
+<a href="https://x.com/chooi_jeq">@chooi_jeq</a> · 2026-09-05<br>
+真实抓取对照 Fable 5.1，输出 token 少 6.2 倍。<a href="https://x.com/chooi_jeq/status/2096064315115839904">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg" alt="Canva portrait"></a><br>
+<b>Canva 里一块块拼肖像</b><br>
+<a href="https://x.com/iam_zachi">@iam_zachi</a> · 2026-09-04<br>
+Computer Use 在 Canva 里实操组装画像。<a href="https://x.com/iam_zachi/status/2095992132620136677">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://x.com/coolish/status/2096195104809873710"><img src="https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg" alt="Slay the Spire 2"></a><br>
+<b>语音通关《杀戮尖塔 2》</b><br>
+<a href="https://x.com/coolish">@coolish</a> paulwei · 2026-09-05<br>
+没写复杂 prompt，模型自学键位打了 48 层。<a href="https://x.com/coolish/status/2096195104809873710">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/AiBattle_/status/2095994051354919049"><img src="https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg" alt="Sonic Max vs Medium"></a><br>
+<b>Godot 索尼克 Max vs Medium</b><br>
+<a href="https://x.com/AiBattle_">@AiBattle_</a> · 2026-09-04<br>
+同一提示词：53 分钟 / 4% vs 25 分钟 / 1%。<a href="https://x.com/AiBattle_/status/2095994051354919049">原帖</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI Astra"></a><br>
+<b>官方 KiCad / UE5 演示</b><br>
+<a href="https://x.com/OpenAI">@OpenAI</a> · 2026-09-03<br>
+原理图到 PCB，Blender 房子导入 Unreal Engine 5。<a href="https://openai.com/index/gpt-6-astra/">博客</a> · <a href="https://x.com/OpenAI/status/2095595741528125780">原帖</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="SKEL Bugatti email"></a><br>
+<b>早餐时给布加迪发了邮件</b><br>
+<a href="https://x.com/skel">@skel</a> · 2026-09-05<br>
+已连 Gmail 的 Astra 在画车时主动发了两封邮件。<a href="https://x.com/skel/status/2096113092736540685">原帖</a>
+</td>
+</tr>
+</table>
+
+预览图来自原作者帖子缩略图，仅供识别；版权仍归作者。
 
 ## 分类目录
 
-精选已计入各类。下面是目录补充，连精选一共约 32 条。
+精选不重复列出。下面 34 条与精选合计 **50 条**。格式：作品 — 一句话。作者 · [original](原帖) · 日期。
 
 ### 游戏与可玩原型
 
-- 三岁小孩动力沙 / 卡车 / 恐龙 — [@imoutoftokensFR](https://x.com/imoutoftokensFR/status/2096202083561054342)
-- Astral War 浏览器射击 — [@RealFedeURU](https://x.com/RealFedeURU/status/2096202133532008758)
-- Three.js MMORPG 区域 — [@oceanbennett](https://x.com/oceanbennett/status/2096049972437209510)
-- Fernando Galaxy 原生 iOS — [@RayFernando1337](https://x.com/RayFernando1337/status/2096150987031633961)
-- 宝可梦风 3D / 涩谷 / 东京塔 — [@masahirochaen](https://x.com/masahirochaen/status/2096196861287878877)
-- 可玩射击 + 赛车 — [@k2sbhai](https://x.com/k2sbhai/status/2096182794737402183)
+- **三岁小孩动力沙 / 卡车 / 恐龙** — 一句 prompt，约 27 分钟可玩。[imoutoftokensFR](https://x.com/imoutoftokensFR) · [original](https://x.com/imoutoftokensFR/status/2096202083561054342) · 09-05
+- **Astral War** — 浏览器 FPS，一天做出。[RealFedeURU](https://x.com/RealFedeURU) · [original](https://x.com/RealFedeURU/status/2096202133532008758) · 09-05
+- **Three.js MMORPG 区域** — 网页端 one prompt：营地、交易、技能栏。[oceanbennett](https://x.com/oceanbennett) · [original](https://x.com/oceanbennett/status/2096049972437209510) · 09-05
+- **Fernando Galaxy** — 原生 iOS，Swift + RealityKit + Blender MCP，5h48m。[RayFernando1337](https://x.com/RayFernando1337) · [original](https://x.com/RayFernando1337/status/2096150987031633961) · 09-05
+- **宝可梦风 3D / 涩谷 / 东京塔** — 日语回顾视频，剪辑也用了 Codex。[masahirochaen](https://x.com/masahirochaen) · [original](https://x.com/masahirochaen/status/2096196861287878877) · 09-05
+- **可玩射击 + 赛车** — 两条简单 prompt，两个可玩回合。[k2sbhai](https://x.com/k2sbhai) · [original](https://x.com/k2sbhai/status/2096182794737402183) · 09-05
+- **1-shot 浏览器游戏** — 上线日 Theo 的即席游戏演示。[theo](https://x.com/theo) · [original](https://x.com/theo/status/2095599934766764338) · 09-03
+- **三主题赛车** — Playco 团队的多主题 kart 原型。[chetaslua](https://x.com/chetaslua) · [original](https://x.com/chetaslua/status/2095580402505400369) · 09-03
+- **Forgotten Horizon** — 更完整的探索游戏原型。[ashthepeasant](https://x.com/ashthepeasant) · [original](https://x.com/ashthepeasant/status/2096172063241515218) · 09-05
 
 ### 3D 世界与建模
 
-- 楔圆形办公室 — [@higgsfield_ai](https://x.com/higgsfield_ai/status/2095630197257367857)
-- 一条 prompt 用基本体拼出整车 — [@Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2096185294165103049)
-- Cinema 4D 也能建模 — [@mojon1](https://x.com/mojon1/status/2096189580752081024)
-- 澳洲宿舍照片还原 — [@rionaifantasy](https://x.com/rionaifantasy/status/2096163579925770671)
-- 零 Blender 经验做美式厨房 — [@berryxia](https://x.com/berryxia/status/2096158415894835518)
-- GTA6 画风新加坡街道 — [@birdabo](https://x.com/birdabo/status/2096156461365960837)
-- 火车草图 → 3295 部件 — [@tomkrcha](https://x.com/tomkrcha/status/2095756085890310311)
+- **房子照片 → 完整 Blender 场景** — 家具玩具都在，可 60fps 浏览。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095598645190291775) · 09-03
+- **火车草图 → 3295 个可编辑物体** — 同作者的工程级 3D。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095756085890310311) · 09-04
+- **椭圆形办公室** — Astra 写几何，视频模型收尾。[higgsfield_ai](https://x.com/higgsfield_ai) · [original](https://x.com/higgsfield_ai/status/2095630197257367857) · 09-03
+- **一条 prompt 用基本体拼出整车** — 作者说四个月前还摆不好物体。[Stefan_3D_AI](https://x.com/Stefan_3D_AI) · [original](https://x.com/Stefan_3D_AI/status/2096185294165103049) · 09-05
+- **Cinema 4D 建模** — 不只有 Blender。[mojon1](https://x.com/mojon1) · [original](https://x.com/mojon1/status/2096189580752081024) · 09-05
+- **澳洲宿舍照片还原** — 约 20 分钟做成可交互场景。[rionaifantasy](https://x.com/rionaifantasy) · [original](https://x.com/rionaifantasy/status/2096163579925770671) · 09-05
+- **零 Blender 经验做美式厨房** — 语音 + 出图 + Computer Use。[berryxia](https://x.com/berryxia) · [original](https://x.com/berryxia/status/2096158415894835518) · 09-05
+- **GTA6 画风新加坡街道** — Three.js，iPhone POV。[birdabo](https://x.com/birdabo) · [original](https://x.com/birdabo/status/2096156461365960837) · 09-05
+- **Tesla Model X 拆解站** — 334 个零件的 3D 网页。[ashebytes](https://x.com/ashebytes) · [original](https://x.com/ashebytes/status/2096009146248122416) · 09-04
+- **Forest Retreat** — Blender 森林别墅，约 7 小时。[UNIBRACITY](https://x.com/UNIBRACITY) · [original](https://x.com/UNIBRACITY/status/2096142182050927035) · 09-05
+- **Backrooms** — Duncan Trussell 的 Blender 限制空间。[duncantrussell](https://x.com/duncantrussell) · [original](https://x.com/duncantrussell/status/2096003511104508411) · 09-04
+- **地图钉 → 3D 街区** — Pietro 把地图标记重建成街区。[skirano](https://x.com/skirano) · [original](https://x.com/skirano/status/2095899479308144981) · 09-04
+- **自动 bind 的功夫动作** — 角色自动绑骨与动画。[thebuggeddev](https://x.com/thebuggeddev) · [original](https://x.com/thebuggeddev/status/2096141728487178503) · 09-05
+- **3D 钢琴家** — 可观看的演奏场景。[LexnLin](https://x.com/LexnLin) · [original](https://x.com/LexnLin/status/2096166277849239804) · 09-05
+- **Hangzhou in Three.js** — 西湖到钱江新城的可漫游微缩杭州。[NFT_Chen](https://x.com/NFT_Chen) · [original](https://x.com/NFT_Chen/status/2096143589151756638) · 09-05
 
 ### Computer Use / 工程
 
-- Paint 里画你 — [@The_Alex](https://x.com/The_Alex/status/2095962639386239400)
-- 55 段素材自动剪辑 — [@0xTykoo](https://x.com/0xTykoo/status/2096183262255386833)
-- 无人机飞控 PCB — [@GoGoFly23](https://x.com/GoGoFly23/status/2096145124950708512)
-- UI 生成质量 — [@MSchwaibold](https://x.com/MSchwaibold/status/2096059496812716307)
-- iOS 参考做安卓 — [@jonaswrks](https://x.com/jonaswrks/status/2096201967982829707)
+- **Paint 里画你** — 广被引用的 Computer Use 小检。[The_Alex](https://x.com/The_Alex) · [original](https://x.com/The_Alex/status/2095962639386239400) · 09-04
+- **55 段素材自动剪辑** — 选曲、切点、遮罩一起做。[0xTykoo](https://x.com/0xTykoo) · [original](https://x.com/0xTykoo/status/2096183262255386833) · 09-05
+- **无人机飞控 PCB** — 原理图到布局走线再自查。[GoGoFly23](https://x.com/GoGoFly23) · [original](https://x.com/GoGoFly23/status/2096145124950708512) · 09-05
+- **KiCad PCB 布线** — 另一条被广泛转发的 EE 案例。[ChihYang04](https://x.com/ChihYang04) · [original](https://x.com/ChihYang04/status/2095637507337826741) · 09-03
+- **Agentic CAD** — 作者称 CAD agent 有一阶跳变。[adamdotnew](https://x.com/adamdotnew) · [original](https://x.com/adamdotnew/status/2096053889141489669) · 09-05
+- **开发—验收闭环** — 中文圈对 Computer Use 的早期观察。[dotey](https://x.com/dotey) · [original](https://x.com/dotey/status/2096051842174087386) · 09-05
+- **iOS 参考做安卓** — 一次对齐现有 iOS 应用。[jonaswrks](https://x.com/jonaswrks) · [original](https://x.com/jonaswrks/status/2096201967982829707) · 09-05
+- **Three.js 30 分钟可交互场景** — 作者说从几小时压到 30 分钟。[lepadphone](https://x.com/lepadphone) · [original](https://x.com/lepadphone/status/2096147245775331419) · 09-05
+- **3D pipeline 工作室测试** — 工作室级管线试跑。[badxstudio](https://x.com/badxstudio) · [original](https://x.com/badxstudio/status/2095982983379653113) · 09-04
+- **UI 生成质量** — 短视频观点，但被广泛收藏。[MSchwaibold](https://x.com/MSchwaibold) · [original](https://x.com/MSchwaibold/status/2096059496812716307) · 09-05
 
-### 科学 / 音乐 / Prompt
+### 音乐 / 科学 / Prompt
 
-- ZX Spectrum 48K 复刻 — [@DeryaTR_](https://x.com/DeryaTR_/status/2096062355692048605)
-- 个人风格 MIDI — [@super_bonochin](https://x.com/super_bonochin/status/2096183825433084181)
-- 第一性原理盘问代码库 — [@georgepickett](https://x.com/georgepickett/status/2095979879137460640)
+- **ZX Spectrum 48K 复刻** — 橡胶键盘、磅带加载、可玩 Gridrunner。[DeryaTR_](https://x.com/DeryaTR_) · [original](https://x.com/DeryaTR_/status/2096062355692048605) · 09-05
+- **Ableton 从零做一轨** — Pietro + Ableton MCP。[skirano](https://x.com/skirano) · [original](https://x.com/skirano/status/2095595942544089525) · 09-03
+- **个人风格 MIDI** — Astra 出稿，作者改 MIDI 再进 Suno。[super_bonochin](https://x.com/super_bonochin) · [original](https://x.com/super_bonochin/status/2096183825433084181) · 09-05
+- **9 条能上班的 Agent prompt** — 账单、二手市场、夜间 QA、竞品。[gregisenberg](https://x.com/gregisenberg) · [original](https://x.com/gregisenberg/status/2095854071580156338) · 09-04
+- **第一性原理盘问代码库** — 先删再简。[georgepickett](https://x.com/georgepickett) · [original](https://x.com/georgepickett/status/2095979879137460640) · 09-04
 
-## 可复用套路
+## 收录说明
 
-1. **先出图，再对标。** Anshu、歸藏、berryxia 都是 image gen 概念图 → Blender / Three.js 截图迭代。
-2. **接 MCP，不要只聊天。** Blender MCP、Ableton MCP、电脑操控比把代码拷出来强一个数量级。
-3. **Medium 往往够用。** 索尼克对照说明 Max 更精，Medium 已能出可玩版本。
-4. **用 ChatGPT Sites 直接托管。** 梵高小镇、Gogh Strike、巴赫钢琴都是 prompt 到可分享链接。
-5. **给它目标，不要逐步喂。** `/goal` 适合多日任务。
-6. **权限最小化。** 能发邮件之后，默认连 Gmail 并不聪明。
-
-## 已知局限
-
-- Plus 配额很紧，一个稍复杂的 3D 任务就能打满 5 小时额度。
-- 不是每条 one-shot 都能上线。车模、房源 3D、PCB 布线仍会出现工程级错误。
-- 有人觉得 Fable 5.1 在纯视觉 / HTML 审美上仍更强。
-- 高级网络安全能力对普通用户是关掉的。
-- 本清单是导览，不保证你用同一提示词能复现同等效果。
-
-## 投稿与许可
-
-- 本仓库摘要文字：[CC0 1.0](LICENSE)
-- 原作品版权仍归作者，详见 [NOTICE.md](NOTICE.md)
-- 新案例请读 [CONTRIBUTING.md](CONTRIBUTING.md)
-- 收录不等于背书可复现
-- Not affiliated with OpenAI
+- 收的是能点回原作的成果，不是用法教程。
+- 预览图为原帖缩略图，本仓库不转存视频。
+- 时长、配额、成本均为作者自述。
+- 摘要文字 [CC0 1.0](LICENSE)；原作品版权见 [NOTICE.md](NOTICE.md)。
+- 投稿见 [CONTRIBUTING.md](CONTRIBUTING.md)。Not affiliated with OpenAI。
