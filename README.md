@@ -84,7 +84,7 @@ Blender 做机身，用原版 iPod 交互浏览 Codex threads。
 
 ### 09. 只看屏幕通关《火红》
 
-<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="Pokemon FireRed" width="680"></a>
+<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="Pokemon FireRed" width="100%"></a>
 
 [Clad3815](https://x.com/Clad3815) · 2026-09-03 · [原帖](https://x.com/Clad3815/status/2095596013168050551)
 
