@@ -87,3 +87,12 @@ Featured cases are not repeated. Combined total is about 55 entries.
 ## Notes
 
 This is a collection of work you can click back to, not a how-to. Duration and cost claims are the authors' own. Catalog text is [CC0 1.0](LICENSE). Original works stay with their authors. See [NOTICE.md](NOTICE.md) and [CONTRIBUTING.md](CONTRIBUTING.md). Not affiliated with OpenAI.
+
+## Author
+
+**Ian**, product designer. I write about design, taste, and making products.
+
+- [Indie Builders](https://ianneo.xyz/ib)
+- [Ian Daily](https://iandaily.xyz)
+- [Ian's Inspiration](https://topinspo.design)
+- [X](https://x.com/ianneo_ai)

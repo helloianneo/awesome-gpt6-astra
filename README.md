@@ -157,7 +157,7 @@ Computer Use 在 Canva 里实操组装画像。
 - **Astral War** — 浏览器 FPS，一天做出。[RealFedeURU](https://x.com/RealFedeURU) · [original](https://x.com/RealFedeURU/status/2096202133532008758) · 09-05
 - **Three.js MMORPG 区域** — 网页端 one prompt：营地、交易、技能栏。[oceanbennett](https://x.com/oceanbennett) · [original](https://x.com/oceanbennett/status/2096049972437209510) · 09-05
 - **Fernando Galaxy** — 原生 iOS，Swift + RealityKit + Blender MCP，5h48m。[RayFernando1337](https://x.com/RayFernando1337) · [original](https://x.com/RayFernando1337/status/2096150987031633961) · 09-05
-- **宝可梦风 3D / 涩谷 / 东京塔** — 日语回顾视频，剪辑也用了 Codex。[masahirochaen](https://x.com/masahirochaen) · [original](https://x.com/masahirochaen/status/2096196861287878877) · 09-05
+- **宝可梦风 3D / 渋谷 / 东京塔** — 日语回顾视频，剪辑也用了 Codex。[masahirochaen](https://x.com/masahirochaen) · [original](https://x.com/masahirochaen/status/2096196861287878877) · 09-05
 - **可玩射击 + 赛车** — 两条简单 prompt，两个可玩回合。[k2sbhai](https://x.com/k2sbhai) · [original](https://x.com/k2sbhai/status/2096182794737402183) · 09-05
 - **1-shot 浏览器游戏** — 上线日 Theo 的即席游戏演示。[theo](https://x.com/theo) · [original](https://x.com/theo/status/2095599934766764338) · 09-03
 - **三主题赛车** — Playco 团队的多主题 kart 原型。[chetaslua](https://x.com/chetaslua) · [original](https://x.com/chetaslua/status/2095580402505400369) · 09-03
