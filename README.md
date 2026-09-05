@@ -20,7 +20,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ### 01. Afterlight · 45 分钟 3D 游戏
 
-<a href="https://x.com/anshuc/status/2096008083826725132"><img src="https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg" alt="Afterlight" width="680"></a>
+<a href="https://x.com/anshuc/status/2096008083826725132"><img src="https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg" alt="Afterlight" width="100%"></a>
 
 [Anshu](https://x.com/anshuc) · 2026-09-04 · [原帖](https://x.com/anshuc/status/2096008083826725132)
 
@@ -28,7 +28,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ### 02. 运行时生成的活火车
 
-<a href="https://x.com/tomkrcha/status/2096082580554777041"><img src="https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg" alt="Tom Krcha trains" width="680"></a>
+<a href="https://x.com/tomkrcha/status/2096082580554777041"><img src="https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg" alt="Tom Krcha trains" width="100%"></a>
 
 [Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · [原帖](https://x.com/tomkrcha/status/2096082580554777041)
 
@@ -36,7 +36,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ### 03. 梵高小镇 + Gogh Strike
 
-<a href="https://x.com/petergostev/status/2095776685807346105"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="Van Gogh Town" width="680"></a>
+<a href="https://x.com/petergostev/status/2095776685807346105"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="Van Gogh Town" width="100%"></a>
 
 [Peter Gostev](https://x.com/petergostev) · 2026-09-04 · [小镇](https://van-goghs-town.surge.sh/) · [FPS](https://gogh-strike.surge.sh/) · [原帖](https://x.com/petergostev/status/2095776685807346105)
 
@@ -44,7 +44,7 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ### 04. 15 分钟 3D iPod
 
-<a href="https://x.com/skirano/status/2095648379455861054"><img src="https://pbs.twimg.com/amplify_video_thumb/2095648069740318720/img/FlJKiuoWnEfQpz3h.jpg" alt="3D iPod" width="680"></a>
+<a href="https://x.com/skirano/status/2095648379455861054"><img src="https://pbs.twimg.com/amplify_video_thumb/2095648069740318720/img/FlJKiuoWnEfQpz3h.jpg" alt="3D iPod" width="100%"></a>
 
 [Pietro Schirano](https://x.com/skirano) · 2026-09-04 · [原帖](https://x.com/skirano/status/2095648379455861054)
 
@@ -52,7 +52,7 @@ Blender 做机身，用原版 iPod 交互浏览 Codex threads。
 
 ### 05. Fall Guys 到 5 天 SimCity
 
-<a href="https://x.com/MatthewBerman/status/2095595892464333065"><img src="https://pbs.twimg.com/amplify_video_thumb/2095578042618052608/img/RyBElYNzg3S7Efc4.jpg" alt="Matthew Berman" width="680"></a>
+<a href="https://x.com/MatthewBerman/status/2095595892464333065"><img src="https://pbs.twimg.com/amplify_video_thumb/2095578042618052608/img/RyBElYNzg3S7Efc4.jpg" alt="Matthew Berman" width="100%"></a>
 
 [Matthew Berman](https://x.com/MatthewBerman) · 2026-09-03 · [评测](https://signals.forwardfuture.com/astra-review/) · [原帖](https://x.com/MatthewBerman/status/2095595892464333065)
 
@@ -60,7 +60,7 @@ Blender 做机身，用原版 iPod 交互浏览 Codex threads。
 
 ### 06. 10 分钟 Blender 甜甜圈
 
-<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="歸藏 donut" width="680"></a>
+<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="歸藏 donut" width="100%"></a>
 
 [歸藏](https://x.com/op7418) · 2026-09-05 · [原帖](https://x.com/op7418/status/2096065904828416286)
 
@@ -68,7 +68,7 @@ Blender 做机身，用原版 iPod 交互浏览 Codex threads。
 
 ### 07. Zillow 房源图 → 3D 宣传片
 
-<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg" alt="Zillow house" width="680"></a>
+<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg" alt="Zillow house" width="100%"></a>
 
 [Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · [原帖](https://x.com/realYunfanYe/status/2095612137582526615)
 
@@ -76,7 +76,7 @@ Blender 做机身，用原版 iPod 交互浏览 Codex threads。
 
 ### 08. Apple Notes 里画自像
 
-<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Viticci Notes portrait" width="680"></a>
+<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Viticci Notes portrait" width="100%"></a>
 
 [Federico Viticci](https://x.com/viticci) · 2026-09-04 · [原帖](https://x.com/viticci/status/2096025249582039180)
 
@@ -92,7 +92,7 @@ Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。
 
 ### 10. 11 分钟巴赫钢琴
 
-<a href="https://x.com/DeryaTR_/status/2096090915790069857"><img src="https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg" alt="Brandenburg piano" width="680"></a>
+<a href="https://x.com/DeryaTR_/status/2096090915790069857"><img src="https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg" alt="Brandenburg piano" width="100%"></a>
 
 [Derya Unutmaz](https://x.com/DeryaTR_) · 2026-09-05 · [试玩](https://brandenburg-piano.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2096090915790069857)
 
@@ -100,7 +100,7 @@ Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。
 
 ### 11. 机械臂 40% → 95%
 
-<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm" width="680"></a>
+<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm" width="100%"></a>
 
 [Jay Chooi](https://x.com/chooi_jeq) · 2026-09-05 · [原帖](https://x.com/chooi_jeq/status/2096064315115839904)
 
@@ -108,7 +108,7 @@ Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。
 
 ### 12. Canva 里一块块拼肖像
 
-<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg" alt="Canva portrait" width="680"></a>
+<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg" alt="Canva portrait" width="100%"></a>
 
 [iam_zachi](https://x.com/iam_zachi) · 2026-09-04 · [原帖](https://x.com/iam_zachi/status/2095992132620136677)
 
@@ -116,7 +116,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 13. 语音通关《杀戮尖塔 2》
 
-<a href="https://x.com/coolish/status/2096195104809873710"><img src="https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg" alt="Slay the Spire 2" width="680"></a>
+<a href="https://x.com/coolish/status/2096195104809873710"><img src="https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg" alt="Slay the Spire 2" width="100%"></a>
 
 [paulwei](https://x.com/coolish) · 2026-09-05 · [原帖](https://x.com/coolish/status/2096195104809873710)
 
@@ -124,7 +124,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 14. Godot 索尼克 Max vs Medium
 
-<a href="https://x.com/AiBattle_/status/2095994051354919049"><img src="https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg" alt="Sonic Max vs Medium" width="680"></a>
+<a href="https://x.com/AiBattle_/status/2095994051354919049"><img src="https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg" alt="Sonic Max vs Medium" width="100%"></a>
 
 [AiBattle](https://x.com/AiBattle_) · 2026-09-04 · [原帖](https://x.com/AiBattle_/status/2095994051354919049)
 
@@ -132,7 +132,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 15. 官方 KiCad / UE5 演示
 
-<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI Astra" width="680"></a>
+<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI Astra" width="100%"></a>
 
 [OpenAI](https://x.com/OpenAI) · 2026-09-03 · [博客](https://openai.com/index/gpt-6-astra/) · [原帖](https://x.com/OpenAI/status/2095595741528125780)
 
@@ -140,7 +140,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 16. 早餐时给布加迪发了邮件
 
-<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="SKEL Bugatti email" width="680"></a>
+<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="SKEL Bugatti email" width="100%"></a>
 
 [SKEL](https://x.com/skel) · 2026-09-05 · [原帖](https://x.com/skel/status/2096113092736540685)
 
