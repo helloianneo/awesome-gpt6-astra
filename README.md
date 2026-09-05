@@ -6,7 +6,7 @@
 
 精选 GPT-6 Astra 上线首周的高质量案例。每条都有作者署名和可点回的原帖，精选带预览图。这是合集，不是教程，也不是 OpenAI 官方仓库。
 
-GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选 + 34 条目录，共 50 条**。
+GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户铺开。现收 **16 条精选**，目录另约 39 条，合计约 55 条。
 
 ## Contents
 
@@ -16,126 +16,139 @@ GPT-6 Astra 于 2026-09-03 发布，9 月 4–5 日向 Plus / Pro / 企业用户
 
 ## 精选 16
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/anshuc/status/2096008083826725132"><img src="https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg" alt="Anshu Afterlight"></a><br>
-<b>Afterlight · 45 分钟 3D 游戏</b><br>
-<a href="https://x.com/anshuc">@anshuc</a> · 2026-09-04<br>
-概念图对标到 60fps 的 one-shot 原型。<a href="https://x.com/anshuc/status/2096008083826725132">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/tomkrcha/status/2096082580554777041"><img src="https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg" alt="Tom Krcha trains"></a><br>
-<b>运行时生成的活火车</b><br>
-<a href="https://x.com/tomkrcha">@tomkrcha</a> · 2026-09-05<br>
-没有模型文件，TypeScript / Three.js 几何函数驱动轮子和爆炸。<a href="https://x.com/tomkrcha/status/2096082580554777041">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/petergostev/status/2095776685807346105"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="Van Gogh Town"></a><br>
-<b>梵高小镇 + Gogh Strike</b><br>
-<a href="https://x.com/petergostev">@petergostev</a> · 2026-09-04<br>
-6 幅梵高画合成可漫游小镇，后又做成 5v5 射击。<a href="https://van-goghs-town.surge.sh/">小镇</a> · <a href="https://gogh-strike.surge.sh/">FPS</a> · <a href="https://x.com/petergostev/status/2095776685807346105">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/skirano/status/2095648379455861054"><img src="https://pbs.twimg.com/amplify_video_thumb/2095648069740318720/img/FlJKiuoWnEfQpz3h.jpg" alt="3D iPod"></a><br>
-<b>15 分钟 3D iPod</b><br>
-<a href="https://x.com/skirano">@skirano</a> · 2026-09-04<br>
-Blender 做机身，用原版 iPod 交互浏览 Codex threads。<a href="https://x.com/skirano/status/2095648379455861054">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/MatthewBerman/status/2095595892464333065"><img src="https://pbs.twimg.com/amplify_video_thumb/2095578042618052608/img/RyBElYNzg3S7Efc4.jpg" alt="Matthew Berman"></a><br>
-<b>Fall Guys 到 5 天 SimCity</b><br>
-<a href="https://x.com/MatthewBerman">@MatthewBerman</a> · 2026-09-03<br>
-早期最完整长线程之一，含游戏、世界与浏览器控制。<a href="https://signals.forwardfuture.com/astra-review/">评测</a> · <a href="https://x.com/MatthewBerman/status/2095595892464333065">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="歸藏 donut"></a><br>
-<b>10 分钟 Blender 甜甜圈</b><br>
-<a href="https://x.com/op7418">@op7418</a> 歸藏 · 2026-09-05<br>
-新手课通常 1–2 小时的模型，约 10 分钟出可改工程文件。<a href="https://x.com/op7418/status/2096065904828416286">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg" alt="Zillow house"></a><br>
-<b>Zillow 房源图 → 3D 宣传片</b><br>
-<a href="https://x.com/realYunfanYe">@realYunfanYe</a> · 2026-09-03<br>
-真房源照片建出可漫游房屋。作者自认细节有误。<a href="https://x.com/realYunfanYe/status/2095612137582526615">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Viticci Notes portrait"></a><br>
-<b>Apple Notes 里画自像</b><br>
-<a href="https://x.com/viticci">@viticci</a> · 2026-09-04<br>
-不是生成一张图，是在 Mac 上打开 Notes 一笔一笔画。<a href="https://x.com/viticci/status/2096025249582039180">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="Pokemon FireRed"></a><br>
-<b>只看屏幕通关《火红》</b><br>
-<a href="https://x.com/Clad3815">@Clad3815</a> · 2026-09-03<br>
-Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。<a href="https://x.com/Clad3815/status/2095596013168050551">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/DeryaTR_/status/2096090915790069857"><img src="https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg" alt="Brandenburg piano"></a><br>
-<b>11 分钟巴赫钢琴</b><br>
-<a href="https://x.com/DeryaTR_">@DeryaTR_</a> · 2026-09-05<br>
-可弹虚拟钢琴，内置全部 6 首《勃兰登堡协奏曲》。<a href="https://brandenburg-piano.vercel.app/">试玩</a> · <a href="https://x.com/DeryaTR_/status/2096090915790069857">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/amplify_video_thumb/2096064287764885505/img/DS7GMzj6bTNwOinu.jpg" alt="Robot arm"></a><br>
-<b>机械臂 40% → 95%</b><br>
-<a href="https://x.com/chooi_jeq">@chooi_jeq</a> · 2026-09-05<br>
-真实抓取对照 Fable 5.1，输出 token 少 6.2 倍。<a href="https://x.com/chooi_jeq/status/2096064315115839904">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg" alt="Canva portrait"></a><br>
-<b>Canva 里一块块拼肖像</b><br>
-<a href="https://x.com/iam_zachi">@iam_zachi</a> · 2026-09-04<br>
-Computer Use 在 Canva 里实操组装画像。<a href="https://x.com/iam_zachi/status/2095992132620136677">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://x.com/coolish/status/2096195104809873710"><img src="https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg" alt="Slay the Spire 2"></a><br>
-<b>语音通关《杀戮尖塔 2》</b><br>
-<a href="https://x.com/coolish">@coolish</a> paulwei · 2026-09-05<br>
-没写复杂 prompt，模型自学键位打了 48 层。<a href="https://x.com/coolish/status/2096195104809873710">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/AiBattle_/status/2095994051354919049"><img src="https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg" alt="Sonic Max vs Medium"></a><br>
-<b>Godot 索尼克 Max vs Medium</b><br>
-<a href="https://x.com/AiBattle_">@AiBattle_</a> · 2026-09-04<br>
-同一提示词：53 分钟 / 4% vs 25 分钟 / 1%。<a href="https://x.com/AiBattle_/status/2095994051354919049">原帖</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI Astra"></a><br>
-<b>官方 KiCad / UE5 演示</b><br>
-<a href="https://x.com/OpenAI">@OpenAI</a> · 2026-09-03<br>
-原理图到 PCB，Blender 房子导入 Unreal Engine 5。<a href="https://openai.com/index/gpt-6-astra/">博客</a> · <a href="https://x.com/OpenAI/status/2095595741528125780">原帖</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="SKEL Bugatti email"></a><br>
-<b>早餐时给布加迪发了邮件</b><br>
-<a href="https://x.com/skel">@skel</a> · 2026-09-05<br>
-已连 Gmail 的 Astra 在画车时主动发了两封邮件。<a href="https://x.com/skel/status/2096113092736540685">原帖</a>
-</td>
-</tr>
-</table>
-
 预览图来自原作者帖子缩略图，仅供识别；版权仍归作者。
+
+### 01. Afterlight · 45 分钟 3D 游戏
+
+<a href="https://x.com/anshuc/status/2096008083826725132"><img src="https://pbs.twimg.com/amplify_video_thumb/2096004824751890434/img/fW0IV1fAgJ3b7i-D.jpg" alt="Afterlight" width="680"></a>
+
+[Anshu](https://x.com/anshuc) · 2026-09-04 · [原帖](https://x.com/anshuc/status/2096008083826725132)
+
+概念图对标到 60fps 的 one-shot 原型。
+
+### 02. 运行时生成的活火车
+
+<a href="https://x.com/tomkrcha/status/2096082580554777041"><img src="https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg" alt="Tom Krcha trains" width="680"></a>
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · [原帖](https://x.com/tomkrcha/status/2096082580554777041)
+
+没有模型文件，TypeScript / Three.js 几何函数驱动轮子和爆炸。
+
+### 03. 梵高小镇 + Gogh Strike
+
+<a href="https://x.com/petergostev/status/2095776685807346105"><img src="https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg" alt="Van Gogh Town" width="680"></a>
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · [小镇](https://van-goghs-town.surge.sh/) · [FPS](https://gogh-strike.surge.sh/) · [原帖](https://x.com/petergostev/status/2095776685807346105)
+
+6 幅梵高画合成可漫游小镇，后又做成 5v5 射击。
+
+### 04. 15 分钟 3D iPod
+
+<a href="https://x.com/skirano/status/2095648379455861054"><img src="https://pbs.twimg.com/amplify_video_thumb/2095648069740318720/img/FlJKiuoWnEfQpz3h.jpg" alt="3D iPod" width="680"></a>
+
+[Pietro Schirano](https://x.com/skirano) · 2026-09-04 · [原帖](https://x.com/skirano/status/2095648379455861054)
+
+Blender 做机身，用原版 iPod 交互浏览 Codex threads。
+
+### 05. Fall Guys 到 5 天 SimCity
+
+<a href="https://x.com/MatthewBerman/status/2095595892464333065"><img src="https://pbs.twimg.com/amplify_video_thumb/2095578042618052608/img/RyBElYNzg3S7Efc4.jpg" alt="Matthew Berman" width="680"></a>
+
+[Matthew Berman](https://x.com/MatthewBerman) · 2026-09-03 · [评测](https://signals.forwardfuture.com/astra-review/) · [原帖](https://x.com/MatthewBerman/status/2095595892464333065)
+
+早期最完整长线程之一，含游戏、世界与浏览器控制。
+
+### 06. 10 分钟 Blender 甜甜圈
+
+<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="歸藏 donut" width="680"></a>
+
+[歸藏](https://x.com/op7418) · 2026-09-05 · [原帖](https://x.com/op7418/status/2096065904828416286)
+
+新手课通常 1–2 小时的模型，约 10 分钟出可改工程文件。
+
+### 07. Zillow 房源图 → 3D 宣传片
+
+<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg" alt="Zillow house" width="680"></a>
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · [原帖](https://x.com/realYunfanYe/status/2095612137582526615)
+
+真房源照片建出可漫游房屋。作者自认细节有误。
+
+### 08. Apple Notes 里画自像
+
+<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Viticci Notes portrait" width="680"></a>
+
+[Federico Viticci](https://x.com/viticci) · 2026-09-04 · [原帖](https://x.com/viticci/status/2096025249582039180)
+
+不是生成一张图，是在 Mac 上打开 Notes 一笔一笔画。
+
+### 09. 只看屏幕通关《火红》
+
+<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="Pokemon FireRed" width="680"></a>
+
+[Clad3815](https://x.com/Clad3815) · 2026-09-03 · [原帖](https://x.com/Clad3815/status/2095596013168050551)
+
+Astra 18h12m；Sol 96h35m；GPT-5.5 跑 218h 未完。
+
+### 10. 11 分钟巴赫钢琴
+
+<a href="https://x.com/DeryaTR_/status/2096090915790069857"><img src="https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg" alt="Brandenburg piano" width="680"></a>
+
+[Derya Unutmaz](https://x.com/DeryaTR_) · 2026-09-05 · [试玩](https://brandenburg-piano.vercel.app/) · [原帖](https://x.com/DeryaTR_/status/2096090915790069857)
+
+可弹虚拟钢琴，内置全部 6 首《勃兰登堡协奏曲》。
+
+### 11. 机械臂 40% → 95%
+
+<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm" width="680"></a>
+
+[Jay Chooi](https://x.com/chooi_jeq) · 2026-09-05 · [原帖](https://x.com/chooi_jeq/status/2096064315115839904)
+
+真实抓取对照 Fable 5.1，输出 token 少 6.2 倍。
+
+### 12. Canva 里一块块拼肖像
+
+<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg" alt="Canva portrait" width="680"></a>
+
+[iam_zachi](https://x.com/iam_zachi) · 2026-09-04 · [原帖](https://x.com/iam_zachi/status/2095992132620136677)
+
+Computer Use 在 Canva 里实操组装画像。
+
+### 13. 语音通关《杀戮尖塔 2》
+
+<a href="https://x.com/coolish/status/2096195104809873710"><img src="https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg" alt="Slay the Spire 2" width="680"></a>
+
+[paulwei](https://x.com/coolish) · 2026-09-05 · [原帖](https://x.com/coolish/status/2096195104809873710)
+
+没写复杂 prompt，模型自学键位打了 48 层。
+
+### 14. Godot 索尼克 Max vs Medium
+
+<a href="https://x.com/AiBattle_/status/2095994051354919049"><img src="https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg" alt="Sonic Max vs Medium" width="680"></a>
+
+[AiBattle](https://x.com/AiBattle_) · 2026-09-04 · [原帖](https://x.com/AiBattle_/status/2095994051354919049)
+
+同一提示词：53 分钟 / 4% vs 25 分钟 / 1%。
+
+### 15. 官方 KiCad / UE5 演示
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI Astra" width="680"></a>
+
+[OpenAI](https://x.com/OpenAI) · 2026-09-03 · [博客](https://openai.com/index/gpt-6-astra/) · [原帖](https://x.com/OpenAI/status/2095595741528125780)
+
+原理图到 PCB，Blender 房子导入 Unreal Engine 5。
+
+### 16. 早餐时给布加迪发了邮件
+
+<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="SKEL Bugatti email" width="680"></a>
+
+[SKEL](https://x.com/skel) · 2026-09-05 · [原帖](https://x.com/skel/status/2096113092736540685)
+
+已连 Gmail 的 Astra 在画车时主动发了两封邮件。
 
 ## 分类目录
 
-精选不重复列出。下面 34 条与精选合计 **50 条**。格式：作品 — 一句话。作者 · [original](原帖) · 日期。
+精选不重复列出。格式：作品 — 一句话。作者 · [original](原帖) · 日期。
 
 ### 游戏与可玩原型
 
